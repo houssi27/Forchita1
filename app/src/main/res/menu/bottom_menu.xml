@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/firstFragement"
+        android:title="Restaurants"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/secondFragement"
+        android:title="Map"
+        android:icon="@drawable/ic_map"/>
+    <item
+        android:id="@+id/thirdFragement"
+        android:title="Profile"
+        android:icon="@drawable/ic_person"/>
+</menu>

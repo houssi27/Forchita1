@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "23917911932",
+    "firebase_url": "https://essaie1-8f6f2.firebaseio.com",
+    "project_id": "essaie1-8f6f2",
+    "storage_bucket": "essaie1-8f6f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23917911932:android:70d4ef7c7e656f9fb14ef9",
+        "android_client_info": {
+          "package_name": "com.example.e2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23917911932-4ei632v7otrfi4uu1vkg1skpnf7u3oud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCs1xlC6uzF1jj3WOaiRwzwvv1Bx-a0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23917911932-4ei632v7otrfi4uu1vkg1skpnf7u3oud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23917911932:android:904e92b5f5d5fa8eb14ef9",
+        "android_client_info": {
+          "package_name": "com.example.forchita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23917911932-4ei632v7otrfi4uu1vkg1skpnf7u3oud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCs1xlC6uzF1jj3WOaiRwzwvv1Bx-a0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23917911932-4ei632v7otrfi4uu1vkg1skpnf7u3oud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

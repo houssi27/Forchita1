@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/firstFragement">
+
+    <fragment
+        android:id="@+id/firstFragement"
+        android:name="com.example.forchita.FirstFragement"
+        android:label="Restaurants"
+        tools:layout="@layout/fragment_first_fragement" />
+    <fragment
+        android:id="@+id/secondFragement"
+        android:name="com.example.forchita.SecondFragement"
+        android:label="Map"
+        tools:layout="@layout/fragment_second_fragement" />
+    <fragment
+        android:id="@+id/thirdFragement"
+        android:name="com.example.forchita.ThirdFragement"
+        android:label="Profile"
+        tools:layout="@layout/fragment_third_fragement" />
+    <activity
+        android:id="@+id/login"
+        android:name="com.example.forchita.login"
+        android:label="login"
+        tools:layout="@layout/login" />
+    <activity
+        android:id="@+id/register"
+        android:name="com.example.forchita.Register"
+        android:label="register"
+        tools:layout="@layout/register" />
+</navigation>

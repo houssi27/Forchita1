@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Forchita</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragement">First Fragement</string>
+    <string name="textview">TextView</string>
+    <string name="second_fragement">second_fragement</string>
+    <string name="third_fragement">third_fragement</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create">Create</string>
+    <string name="already_regestered_login_here">Already Regestered? Login Here</string>
+    <string name="login">Login</string>
+    <string name="passowrd">Passowrd</string>
+    <string name="not_registrated_yet_create_account">Not Registrated Yet? Create Account</string>
+    <string name="button">Button</string>
+    <string name="first">first</string>
+</resources>
